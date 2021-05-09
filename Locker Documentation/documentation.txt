@@ -1,0 +1,1 @@
+This folder includes all the documentation along with the fritzing files. 
